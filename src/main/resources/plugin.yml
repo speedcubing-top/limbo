@@ -1,6 +1,6 @@
 name: limbo
 main: top.speedcubing.limbo.Limbo
-version: 1.0
+version: '${build.date}'
 depend:
   - speedcubingLib
   - speedcubingServer
